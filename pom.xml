@@ -89,14 +89,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Releases Nexus Repository</name>
-	      <url>http://16.50.145.126:8081/repository/landmark-Release/</url>
+	      <name>goutham Releases Nexus Repository</name>
+	      <url>http://16.51.59.75:8081/repository/goutham-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Snapshot Nexus Repository</name>
-	      <url>http://16.50.145.126:8081/repository/landmark-Snapshot/</url>
+	      <name>goutham Snapshot Nexus Repository</name>
+	      <url>http://16.51.59.75:8081/repository/goutham-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
